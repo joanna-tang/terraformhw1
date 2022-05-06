@@ -1,6 +1,6 @@
 # terraform hw1
 
-there is 1 file for this homework
+there is 1 file for this homework: resources.tf
 
 requirement:
 
