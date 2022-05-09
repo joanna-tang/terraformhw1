@@ -24,7 +24,9 @@ modify the default values and save the file.
 usage: 
 To begin using terraform after downloading the software, first run:
 > terraform init
+
 To apply all 18 changes to the aws env, run:
 > terraform apply 
+
 To remove all 18 resources to the aws env, run:
 > terrform destroy
